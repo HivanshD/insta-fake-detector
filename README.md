@@ -4,7 +4,7 @@ A machine learning system for detecting fake Instagram accounts using account me
 
 **Live Demo:** [Streamlit App](https://hivanshd-insta-fake-detector-app-nnzrl8.streamlit.app/)
 
-**Full Analysis:** [![Open Notebook]](https://nbviewer.org/github/HivanshD/insta-fake-detector/blob/main/notebooks/mainnotebook.ipynb)
+**Full Analysis:** [[Open Notebook]](https://nbviewer.org/github/HivanshD/insta-fake-detector/blob/main/notebooks/mainnotebook.ipynb)
 ---
 
 ## Problem Statement & Methodology
@@ -130,28 +130,6 @@ False Positives (9): Legitimate accounts with unusual patterns (low activity, ne
 | 5 | nums/length username | 7.71% |
 
 ---
-
-### Streamlit App
-
-Interactive web application with:
-- Real-time profile analysis
-- Gauge chart showing fake probability
-- Behavioral pattern visualizations
-- Model performance dashboard
-
-**Try it:** [Live Demo](https://your-app-url.streamlit.app)
-
-### Jupyter Notebook
-
-Complete ML pipeline with:
-- Exploratory data analysis
-- Feature engineering process
-- Model selection and tuning
-- Comprehensive evaluation
-- Error analysis and interpretability
-
-**View:** [Open in nbviewer](https://nbviewer.org/github/yourusername/yourrepo/blob/main/mainnotebook.ipynb) | [Open in Colab](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/mainnotebook.ipynb)
-
 
 **requirements.txt:**
 ```txt
